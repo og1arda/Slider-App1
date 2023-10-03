@@ -1,0 +1,11 @@
+.card-body {
+  text-align: center;
+}
+.card-footer {
+  text-align: center;
+}
+.fa-solid {
+  transition: 1s;
+  color: red;
+  cursor: pointer;
+}
